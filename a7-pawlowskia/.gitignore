@@ -1,0 +1,8 @@
+# Remember to add any unnecessary folders and files here
+node_modules/
+.DS_Store
+.vscode/
+.terraform/
+.terraform*
+terraform*
+.newtf
